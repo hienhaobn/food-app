@@ -1,0 +1,16 @@
+{
+  "name": "@package/localization",
+  "version": "0.0.1",
+  "description": "A minimal internationalalization library",
+  "main": "./src/index.tsx",
+  "types": "./src/index.tsx",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

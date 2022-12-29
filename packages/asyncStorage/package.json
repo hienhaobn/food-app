@@ -1,0 +1,12 @@
+{
+  "name": "@package/asyncStorage",
+  "version": "0.0.1",
+  "description": "Store used for common datas",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
