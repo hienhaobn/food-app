@@ -1,4 +1,4 @@
-package com.toolkitbase.newarchitecture;
+package com.foodapp.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.toolkitbase.BuildConfig;
-import com.toolkitbase.newarchitecture.components.MainComponentsRegistry;
-import com.toolkitbase.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.foodapp.BuildConfig;
+import com.foodapp.newarchitecture.components.MainComponentsRegistry;
+import com.foodapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

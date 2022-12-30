@@ -1,8 +1,8 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-
 import { getStatusBarHeight } from 'src/utils/dimensions';
-import { scale } from 'src/utils/scale';
+
+import { scale } from '~utils/scale';
 
 const GlobalHeader = () => {
   return (
