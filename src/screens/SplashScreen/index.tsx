@@ -1,13 +1,13 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+import { SafeAreaView, Text } from 'react-native';
 
 import { scale } from '~utils/scale';
 
 const SplashScreen = () => {
   return (
-    <View style={{ backgroundColor: 'red' }}>
+    <SafeAreaView>
       <Text>SplashScreen</Text>
-    </View>
+    </SafeAreaView>
   );
 };
 
